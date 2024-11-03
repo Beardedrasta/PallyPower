@@ -12,4 +12,6 @@
 - Fixed Refresh and Clear
 - Added Refresh and Clear feedback
 
+- Minor fixes to accomodate Turtle WoW patch 1.17.2
+
 https://turtle-wow.org/
